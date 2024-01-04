@@ -1,0 +1,19 @@
+     
+Prompt ChatGPT:
+Crie um titulo de um ebook sobre o tema  de comandos basicos de SQL, o ebook é do nicho de programação, subnicho é SQL. O titulo deve ser épico e curto, e tenha uma temática de herois da marvel. Tenha como base os filmes do homem de ferro.Gere 5 titulos para eu escolher.
+
+Titulo escolhido
+SQL: A Era dos Comandos Fundamentais
+
+Solicitando uma imagem.
+backgroun transparent iron man png.
+
+
+Prompt de Conteudo:
+
+Faça um text para ebook, como foco em SQL, listando os principais comandos. De exemplos de código.
+{REGRAS}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de código em contextos reais
+>Sempre deixe um título sugestivo por tópico.
