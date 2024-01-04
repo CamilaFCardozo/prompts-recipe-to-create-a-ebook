@@ -15,7 +15,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-<a href="https://github.com/CamilaFCardozo/prompts-recipe-to-create-a-ebook/tree/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/CamilaFCardozo/prompts-recipe-to-create-a-ebook/blob/main/output/ebook_a_era_dos_comandos_fundamentais.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
